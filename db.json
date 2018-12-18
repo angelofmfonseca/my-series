@@ -1,0 +1,30 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "How I Met Your Mother",
+      "status": "Watched",
+      "genre": "Comedy",
+      "comments": "Very good"
+    },
+    {
+      "id": 2,
+      "name": "Friends",
+      "status": "Watched",
+      "genre": "Comedy",
+      "comments": "Old, but good"
+    },
+    {
+      "id": 5,
+      "name": "Suits",
+      "status": "Watched",
+      "genre": "Drama",
+      "comments": "Very good until Mike and Rachel left the serie."
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Action"
+  ]
+}
